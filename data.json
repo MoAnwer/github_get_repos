@@ -1,0 +1,68 @@
+[
+  {
+    "id": 28281982,
+    "node_id": "MKuiNzirWU4783Nsb98WJECXZ=",
+    "name": "Ajax",
+    "repo_img":"img/avatar-01.jpg",
+    "full_name": "ElzeroWebSchool/Ajax",
+    "privet": false,
+    "description": "Code for the Ajax Course => https://www.youtub.com/watch?V8438nonMyh89",
+    "download_url": "https://api.github.com/repos/ElzeroWebSchool/Ajax/download",
+    "contents_url": "https://api.github.com/repos/ElzeroWebSchool/Ajax/contents/{+path}"
+  },
+  {
+    "id": 54423982,
+    "node_id": "MKuiNzirWU4783Nsb98WJECXZ=",
+    "repo_img":"img/avatar-02.jpg",
+    "name": "Bootstrap Design 1",
+    "full_name": "ElzeroWebSchool/Bootstrap_Design_1",
+    "privet": false,
+    "description": "Code for the Bootstrap_Design_1 Course => https://www.youtub.com/watch?V8438nonMyh89",
+    "download_url": "https://api.github.com/repos/ElzeroWebSchool/Bootstrap_Design_1/download",
+    "contents_url": "https://api.github.com/repos/ElzeroWebSchool/Bootstrap_Design_1/contents/{+path}"
+  },
+  {
+    "id": 54423982,
+    "node_id": "MKuiNzirWU4783Nsb98WJECXZ=",
+    "repo_img":"img/avatar-02.jpg",
+    "name": "Bootstrap Design 1",
+    "full_name": "ElzeroWebSchool/Bootstrap_Design_1",
+    "privet": false,
+    "description": "Code for the Bootstrap_Design_1 Course => https://www.youtub.com/watch?V8438nonMyh89",
+    "download_url": "https://api.github.com/repos/ElzeroWebSchool/Bootstrap_Design_1/download",
+    "contents_url": "https://api.github.com/repos/ElzeroWebSchool/Bootstrap_Design_1/contents/{+path}"
+  },
+  {
+    "id": 54423982,
+    "node_id": "MKuiNzirWU4783Nsb98WJECXZ=",
+    "repo_img":"img/avatar-02.jpg",
+    "name": "Bootstrap Design 1",
+    "full_name": "ElzeroWebSchool/Bootstrap_Design_1",
+    "privet": false,
+    "description": "Code for the Bootstrap_Design_1 Course => https://www.youtub.com/watch?V8438nonMyh89",
+    "download_url": "https://api.github.com/repos/ElzeroWebSchool/Bootstrap_Design_1/download",
+    "contents_url": "https://api.github.com/repos/ElzeroWebSchool/Bootstrap_Design_1/contents/{+path}"
+  },
+  {
+    "id": 82745922,
+    "node_id": "MKuiNzirWU4783Nsb98WJECXZ=",
+    "name": "Javascript Bootcamp",
+    "repo_img":"img/avatar-03.jpg",
+    "full_name": "ElzeroWebSchool/Javascript_Bootcamp",
+    "privet": false,
+    "description": "Code for the Javascript_Bootcamp Course => https://www.youtub.com/watch?V8438nonMyh89",
+    "download_url": "https://api.github.com/repos/ElzeroWebSchool/Javascript_Bootcamp/download",
+    "contents_url": "https://api.github.com/repos/ElzeroWebSchool/Javascript_Bootcamp/contents/{+path}"
+  },
+  {
+    "id": 28281982,
+    "node_id": "MKuiNzirWU4783Nsb98WJECXZ=",
+    "name": "DOM",
+    "repo_img":"img/avatar-03.jpg",
+    "full_name": "ElzeroWebSchool/DOM",
+    "privet": false,
+    "description": "Code for the DOM Course => https://www.youtub.com/watch?V8438nonMyh89",
+    "download_url": "https://api.github.com/repos/ElzeroWebSchool/DOM/download",
+    "contents_url": "https://api.github.com/repos/ElzeroWebSchool/DOM/contents/{+path}"
+  }
+]
